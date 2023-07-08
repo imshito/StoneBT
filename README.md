@@ -1,7 +1,7 @@
 # StoneBT
 >一个基于tshock的泰拉瑞亚服务器启动器集
 # 官网
-[官网](https://bt.imshito.eu.org)
+[官网](https://imshito.eu.org/StoneBt)
 # 语言（language）
 [中文简体](README.md)
 
